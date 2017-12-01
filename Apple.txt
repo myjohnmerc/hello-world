@@ -1,1 +1,3 @@
 This is initial file, I got an Apple. :)
+Create a Branch "Branch1" and writing this line in this.
+I still got an Apple but in other branch.
